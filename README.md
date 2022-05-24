@@ -6,6 +6,6 @@ I appreciate your taking the time to read this, and welcome you to my corporatel
 
 ### My current focus: Code Visualiation in AR
 
-My one current major project in flight is `LookAtThat`, a terrible name for an exciting project that reads, analyzes, renders, and makes three-dimensionally-interactable your code. It currently support Swift, and unless I've gone made and become explosively products, has other language-level AST analysis in the things (looking at you, `tree-sitter`).
+My one current major project in flight is [LookAtThat](https://github.com/tikimcfee/LookAtThat), a terrible name for an exciting project that reads, analyzes, renders, and makes three-dimensionally-interactable your code. It currently support Swift, and unless I've gone made and become explosively products, has other language-level AST analysis in the things (looking at you, [tree-sitter](https://tree-sitter.github.io/tree-sitter/)).
 
 I love collaborators (who doesn't?), mentoring and teaching, and being a generally open and transparent developer advocate. If something interests you, or you have a fun idea, **LET ME KNOW!** There are few things in life as equally important as validation of one's thoughts and ideas, so here ya go, I offer some!
